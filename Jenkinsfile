@@ -11,7 +11,7 @@ simpleBuild {
     script = 'echo after $FOO'
     
     notifications = [
-        email : "mneale@cloudbees.com"    
+        email : "gaurav_31jan"    
     ]
     
     
